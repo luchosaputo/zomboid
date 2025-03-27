@@ -9298,3 +9298,132 @@ table.insert(log, {
 	{ type = "reg_obj", id = 44, obj = "WallCracks" }
 	{ type = "reg_obj", id = 45, obj = "Flowerbed" }
 };
+log = log or {};
+table.insert(log, {
+	-- -------------------------------------------------------
+	-- Time: 2025/03/27 16:29:53
+	{
+		type = "info",
+		timeStamp = "2025/03/27 16:29:53",
+		saveWorld = "3f",
+		worldVersion = 195,
+		hasErrored = false,
+		itemMods = {
+			"Arsenal(26)GunFighter[MAIN MOD 2.0]",
+			"BatesMetalicosRevived",
+			"LeGourmetRevolution",
+			"PokeCardsUltimate",
+			"ZombiesAtWorkEvo41",
+			"AuthenticZLite",
+			"AmmoMaker",
+			"pz-vanilla",
+			"KATTAJ1_Military",
+			"78amgeneralM35A2",
+			"SnakeClothingMod",
+			"NumarkComplex",
+			"VanillaGearExpanded",
+			"SkillsMag",
+			"Arsenal(26)GunFighter",
+			"CustomMapBridge",
+			"WPA",
+			"AquatsarYachtClub",
+			"TableSaw",
+			"AuthenticZBackpacks+",
+			"ImprovedProjectile",
+			"vino125",
+			"AliceSPack",
+			"tsarslib",
+			"92amgeneralM998",
+			"nattachments",
+			"82oshkoshM911",
+			"TallerMecanico",
+			"83amgeneralM923",
+			"PertsPartyTiles",
+			"MilitaryComplex",
+			"DynamicTraits",
+			"Pokemon Plushes",
+			"autotsartrailers",
+			"amclub",
+			"28ss100",
+			"ReducedWoodWeight2x41",
+			"80kz1000",
+			"89def110",
+			"LWBetterElectronics",
+			"ATA_Jeep",
+			"efficiencySkillMod",
+			"BeerCapsRewardMachine",
+			"ThrowingK",
+			"87cruiser",
+			"lakeivytownship",
+			"Riverside Gunstore",
+			"FuelTanksMod",
+			"85merc",
+			"BB_CommonSense",
+			"SkillRecoveryJournal",
+			"SnakeMansion",
+			"ATA_VanDeRumba",
+			"KATTAJ1_ClothesCore",
+			"89def90",
+		},
+	},
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M101A3Cover1_Item", registeryID = 293, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M101A3Cover1_Item", registeryID = 293, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998TrunkBarrier1_Item", registeryID = 440, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998TrunkBarrier1_Item", registeryID = 440, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998WindshieldArmor1_Item", registeryID = 665, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998WindshieldArmor1_Item", registeryID = 665, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998Windshield2", registeryID = 679, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998Windshield2", registeryID = 679, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998SpareMount_Item", registeryID = 738, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998SpareMount_Item", registeryID = 738, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M101A3Tarp1_Item", registeryID = 934, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M101A3Tarp1_Item", registeryID = 934, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998Bullbar2_Item", registeryID = 1098, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998Bullbar2_Item", registeryID = 1098, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M101A3TrunkDoor2", registeryID = 1287, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M101A3TrunkDoor2", registeryID = 1287, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998CarSeat2", registeryID = 1339, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998CarSeat2", registeryID = 1339, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998Muffler1_Item", registeryID = 1446, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998Muffler1_Item", registeryID = 1446, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998EngineDoor2", registeryID = 1483, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998EngineDoor2", registeryID = 1483, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998CarFrontDoorArmor1_Item", registeryID = 1700, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998CarFrontDoorArmor1_Item", registeryID = 1700, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998SideWindow2", registeryID = 2262, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998SideWindow2", registeryID = 2262, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M101A3TrunkDoorTwo2", registeryID = 3084, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M101A3TrunkDoorTwo2", registeryID = 3084, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.V101Tire2", registeryID = 3159, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.V101Tire2", registeryID = 3159, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M101A3Trunk2", registeryID = 3791, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M101A3Trunk2", registeryID = 3791, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998Trunk2", registeryID = 4222, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998Trunk2", registeryID = 4222, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998TrunkDoor2", registeryID = 5141, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998TrunkDoor2", registeryID = 5141, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998SpareTireMount_Item", registeryID = 5839, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998SpareTireMount_Item", registeryID = 5839, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998CarRearDoorArmor1_Item", registeryID = 5870, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998CarRearDoorArmor1_Item", registeryID = 5870, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998Roofrack1_Item", registeryID = 5981, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998Roofrack1_Item", registeryID = 5981, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998TrunkBarrier2_Item", registeryID = 6407, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998TrunkBarrier2_Item", registeryID = 6407, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998WindshieldArmor2_Item", registeryID = 6538, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998WindshieldArmor2_Item", registeryID = 6538, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998BackCover1_Item", registeryID = 6778, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998BackCover1_Item", registeryID = 6778, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998Bullbar1_Item", registeryID = 6980, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998Bullbar1_Item", registeryID = 6980, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998Mudflaps1_Item", registeryID = 7213, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998Mudflaps1_Item", registeryID = 7213, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998Muffler2_Item", registeryID = 7244, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998Muffler2_Item", registeryID = 7244, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998CarRearDoor2", registeryID = 7978, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998CarRearDoor2", registeryID = 7978, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.leafSuspension2", registeryID = 8247, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.leafSuspension2", registeryID = 8247, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "Base.M998CarFrontDoor2", registeryID = 9049, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "Base.M998CarFrontDoor2", registeryID = 9049, existsVanilla = false, isModded = true, modID = "92amgeneralM998", obsolete = false, removed = true, isLoaded = false }
+};
